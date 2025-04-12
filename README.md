@@ -1,5 +1,5 @@
 # Cupcake-Chatbot
-"""A Python program that takes cupcake orders and gives bonus treats.My firstever project so nothing too cool I know lol."""
+"""A Python program that takes cupcake orders and gives bonus treats.My firstever project so nothing too cool I know lol.(and hence the name)."""
 
 name = input("Welcome! May I have your name, please? ")
 no = int(input("How many cupcakes would you like to order today? "))
